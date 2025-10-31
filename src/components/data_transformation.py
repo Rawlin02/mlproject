@@ -11,7 +11,7 @@ from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder, StandardScaler
 from src.exception import CustomException
 from src.logger import logging
 import os
-from src.utils import save_numpy_array_data as save_object
+from src.utils import save_object
 #from src.components.data_transformation import DataTransformationConfig
 #from src.components.data_transformation import DataTransformation
 
